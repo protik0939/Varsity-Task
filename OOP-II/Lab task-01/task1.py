@@ -41,7 +41,7 @@ print('\n')
 
 
 print('output of break and continue inside loop: ')
-friends = ["Jarif", "Rafi", "Siyum", "Shakib", "Shawon", "Rahim", "Karim"]
+friends = ["Jarif", "Rafi", "Siyum", "Shakib", "Shawon", "Rakib", "Karim"]
 for x in friends:
     print(x, end=' ')
     if x == "Shawon":
